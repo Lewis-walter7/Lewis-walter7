@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lewis-walter7
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning react Js and native
-- 💞️ I’m looking to collaborate on many projects
+- 👀 I’m interested in machine learning and artificial intelligence 
+- 🌱 I’m a pro in react, next js and android development 
+- 💞️ I’m looking forward to collaborate on many projects
 - 📫 
 
 <!---
