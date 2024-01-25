@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lewis-walter7
-- 👀 I’m interested in machine learning and artificial intelligence 
+- 👀 I’m a tech enthusiast 
 - 🌱 I’m a pro in react, next js and android development 
 - 💞️ I’m looking forward to collaborate on many projects
 - 📫 
